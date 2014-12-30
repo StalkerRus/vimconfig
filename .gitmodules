@@ -30,16 +30,16 @@
 	url = https://github.com/Shutnik/jshint2.vim.git
 [submodule "bundle/vim-nerdtree-tabs"]
 	path = bundle/vim-nerdtree-tabs
-    url = https://github.com/jistr/vim-nerdtree-tabs.git
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
-    url = https://github.com/scrooloose/nerdcommenter.git
+	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "bundle/auto-pairs"]
 	path = bundle/auto-pairs
-    url = https://github.com/jiangmiao/auto-pairs.git
+	url = https://github.com/jiangmiao/auto-pairs.git
 [submodule "bundle/vim-auto-save"]
 	path = bundle/vim-auto-save
-    url = https://github.com/vim-scripts/vim-auto-save.git
+	url = https://github.com/vim-scripts/vim-auto-save.git
 [submodule "bundle/vim-trailing-whitespace"]
 	path = bundle/vim-trailing-whitespace
-    url = https://github.com/bronson/vim-trailing-whitespace.git
+	url = https://github.com/bronson/vim-trailing-whitespace.git
