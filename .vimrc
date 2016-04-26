@@ -68,3 +68,8 @@ filetype plugin on
 "  %    :  saves and restores the buffer list
 "  n... :  where to save the viminfo files
 set viminfo='10,\"100,:20,%,n~/.viminfo
+
+let g:vim_markdown_folding_disabled=1
+
+set exrc
+set secure
